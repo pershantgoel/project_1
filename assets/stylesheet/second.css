@@ -1,0 +1,24 @@
+body{
+            /*position: relative;*/
+            margin: 0px;
+            padding: 0px;
+            overflow-x: hidden;  
+            background-color: grey;
+            }
+#section-1 h1{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 70px;
+}
+#section-1 p{
+       padding-left: 5%;
+    padding-right: 5%;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}
+.owl-carousel{
+    margin-bottom: 10px;
+}
